@@ -5,3 +5,4 @@
 - Include a glow effect.
 
 ![preview img](/preview-1.png)
+![preview img](/preview-2.png)
