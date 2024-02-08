@@ -4,7 +4,7 @@
 - Responsive Navigation Menu Bar Using HTML CSS & JavaScript
 - Include a glow effect.
 
-#Display : 
+# Display : 
 
 ### Code by : NotGery
 ![preview img](/preview-1.png)
